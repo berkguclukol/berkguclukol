@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">Freelance Digital Product Designer from Istanbul</h3>
 
-- 🌱 I’m currently learning **frameworks**
-
 - 👨‍💻 All of my projects are available at [https://guclukol.net](https://guclukol.net)
 
 - 💬 Ask me about **react, php, mongodb**
