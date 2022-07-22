@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">Freelance Digital Product Designer from Istanbul</h3>
+<h1>Hi 👋, I'm Berk</h1>
+<h3>Freelance Digital Product Designer from Istanbul</h3>
 
 - 👨‍💻 All of my projects are available at [https://guclukol.net](https://guclukol.net)
 
