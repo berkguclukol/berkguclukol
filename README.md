@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, php, mongodb**
 
-- 📫 How to reach me **sayhi@guclukol.net**
+- 📫 How to reach me **berkguclukol@gmail.com**
 
 - 📄 Know about my experiences [https://guclukol.net](https://guclukol.net)
 
