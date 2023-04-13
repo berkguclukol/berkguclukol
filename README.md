@@ -1,23 +1,29 @@
-<h1>Hi 👋, I'm Berk</h1>
-<h3>Freelance Digital Product Designer from Istanbul</h3>
+# Hey! 👋
+### Freelance Digital Product Designer from Istanbul
 
 - 👨‍💻 All of my projects are available at [https://guclukol.net](https://guclukol.net)
-
-- 💬 Ask me about **react, php, mongodb**
-
 - 📫 How to reach me **berkguclukol@gmail.com**
-
 - 📄 Know about my experiences [https://guclukol.net](https://guclukol.net)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/bguclukol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bguclukol" height="30" width="40" /></a>
-<a href="https://twitter.com/berkguclukol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berkguclukol" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/berkguclukol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkguclukol" height="30" width="40" /></a>
-<a href="https://instagram.com/bguclukol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bguclukol" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/berkguclukol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="berkguclukol" height="30" width="40" /></a>
-</p>
+### Connect with me:
+[![SkillIcons](https://skillicons.dev/icons?i=codepen)](https://codepen.io/bguclukol)
+[![SkillIcons](https://skillicons.dev/icons?i=twitter)](https://twitter.com/berkguclukol)
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/berkguclukol)
+[![SkillIcons](https://skillicons.dev/icons?i=instagram)](https://instagram.com/bguclukol)
+[![SkillIcons](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/c/berkguclukol)
 
-## Github Stats
+#### My backend skills:
+![SkillIcons](https://skillicons.dev/icons?i=php,cs,dotnet,python,nodejs,Ruby)
+
+#### My frontend skills:
+![SkillIcons](https://skillicons.dev/icons?i=html,scss,css,jquery,angular,electron,tailwindcss,bootstrap,react)
+
+#### My database skills:
+![SkillIcons](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)
+
+#### My design skills:
+![SkillIcons](https://skillicons.dev/icons?i=pr,ps,ae,xd,visualstudio,vscode,idea)
+
+### Github Stats
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=berkguclukol&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkguclukol&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
