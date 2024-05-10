@@ -9,7 +9,7 @@
 [![SkillIcons](https://skillicons.dev/icons?i=codepen)](https://codepen.io/bguclukol)
 [![SkillIcons](https://skillicons.dev/icons?i=twitter)](https://twitter.com/berkguclukol)
 [![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/berkguclukol)
-[![SkillIcons](https://skillicons.dev/icons?i=instagram)](https://instagram.com/bguclukol)
+[![SkillIcons](https://skillicons.dev/icons?i=instagram)](https://instagram.com/berk.guclukol)
 [![SkillIcons](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/c/berkguclukol)
 
 #### My backend skills:
